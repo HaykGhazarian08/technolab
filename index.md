@@ -7,6 +7,7 @@
 - Davit Margaryan
 - Hovhannes
 - Jora Ghazaryan
+- Tamara
 
 ## Lesson 0 - Introduction
 

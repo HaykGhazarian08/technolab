@@ -1,8 +1,13 @@
-# Welcome to the Techolab Javascript course
+# Welcome to the Techolab Javascript course!
 
 ## Participants
 
-1. `<-- Put your name in here`
+- Karine
+- Albert Zakhrabekyan
+- Davit Margaryan
+- Hovhannes
+- Jora Ghazaryan
+- Tamara
 
 ## Lesson 0 - Introduction
 
@@ -63,17 +68,66 @@
 
 ## Lesson 2 - Arrays
 
+### Prerequisites
+
+1. Create an account in [https://leetcode.com](https://leetcode.com)
+
+### In Class
+
+1. Arrays, high-level overview.
+2. String representations. ASCII vs Unicode.
+3. Workshop: converting a string to lowercase: [https://leetcode.com/problems/to-lower-case/](https://leetcode.com/problems/to-lower-case/)
+4. Individual coding challenge: [https://leetcode.com/problems/student-attendance-record-i/](https://leetcode.com/problems/student-attendance-record-i/)
+
+### Home Assignments
+
+1. [https://leetcode.com/problems/plus-one/](https://leetcode.com/problems/plus-one/)
+2. [https://leetcode.com/problems/max-consecutive-ones/](https://leetcode.com/problems/max-consecutive-ones/)
+3. [https://leetcode.com/problems/length-of-last-word/](https://leetcode.com/problems/length-of-last-word/)
+
 ## Lesson 3 - Sorting
+
+1. Sorting algorithms, complexity ([https://en.wikipedia.org/wiki/Sorting_algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm))
+2. `O(n^2)` sorting algorithms
+   1. Selection Sort ([https://en.wikipedia.org/wiki/Selection_sort](https://en.wikipedia.org/wiki/Selection_sort))
+   2. Buble Sort ([https://en.wikipedia.org/wiki/Bubble_sort](https://en.wikipedia.org/wiki/Bubble_sort))
+3. `O(n * log(n))` sorting algorithms
+   1. Merge Sort ([https://en.wikipedia.org/wiki/Merge_sort](https://en.wikipedia.org/wiki/Merge_sort))
+
+### In Class
+
+1. Workshop: implement Selection Sort
+2. Individual coding challenge: calculate the median of an array: [https://en.wikipedia.org/wiki/Median](https://en.wikipedia.org/wiki/Median)
+   
+### Home Assignments
+
+1. Implement Merge Sort
+
 
 ## Lesson 4 - Multidimensional Arrays
 
-## Lesson 4 - Linked Lists
+1. Instantiating a matrix: [https://www.w3docs.com/snippets/javascript/how-to-create-a-two-dimensional-array-in-javascript.html](https://www.w3docs.com/snippets/javascript/how-to-create-a-two-dimensional-array-in-javascript.html)
 
-## Lesson 5 - Sets
+### In Class
 
-## Lesson 6 - Trees
+1. Print the diagonal elements of a given (NxN) matrix 
+2. Calculate the average of the elements of the upper triangular matrix of a given (NxN) matrix
 
-## Lesson 7 - Graphs
+### Home Asignments
+
+1. Matrix Diagonal Sum: [https://leetcode.com/problems/matrix-diagonal-sum/](https://leetcode.com/problems/matrix-diagonal-sum/)
+2. Convert 1D Array Into 2D Array: [https://leetcode.com/problems/convert-1d-array-into-2d-array/](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
+3. Lucky Numbers in a Matrix: [https://leetcode.com/problems/lucky-numbers-in-a-matrix/](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+4. Sudoku validator: [https://leetcode.com/problems/valid-sudoku/](https://leetcode.com/problems/valid-sudoku/)
+5. Sudoku solver: [https://leetcode.com/problems/sudoku-solver/](https://leetcode.com/problems/sudoku-solver/)
+
+## Lesson 5 - Linked Lists
+
+## Lesson 6 - Sets
+
+## Lesson 7 - Trees
+
+## Lesson 8 - Graphs
 
 
 
